@@ -1,4 +1,4 @@
-# Terraform-Spotify
+# Terraform-Spotify-Playlist-Creation
 
 This project uses Terraform to create playlists in Spotify using the Spotify API. The playlists are created based on many factors, such as the user's top artists, top tracks, and top genres.
 
